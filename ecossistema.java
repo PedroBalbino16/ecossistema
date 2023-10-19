@@ -182,7 +182,7 @@ public class EcossistemaFloresta {
         Arvore carvalho = new Arvore("Carvalho", "Árvore de Folha Caduca");
         Arvore cerejeira = new Arvore("Cerejeira", "Cerejeira Japonesa");
         Lobo lobo = new Lobo("Lobo Ocidental");
-        Coelho coelho = new Coelho("Coelho");
+        Coelho coelho = new Coelho("Coelho Europeu", "Coelho");
         Mamifero urso = new Mamifero("Urso Pardo", "Urso");
         Ave aguia = new Ave("Águia Real", "Águia");
 
